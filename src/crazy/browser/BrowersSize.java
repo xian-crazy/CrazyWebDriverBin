@@ -1,5 +1,8 @@
-package bin.browser;
-
+package crazy.browser;
+/*
+ * 作者：叶浩\西安-疯子\xian-crazy
+ * github：https://github.com/xian-crazy/CrazyWebDriverBin.git
+ */
 import java.awt.Dimension;
 import java.awt.Toolkit;
 

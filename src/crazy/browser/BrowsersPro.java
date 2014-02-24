@@ -1,5 +1,9 @@
 
-package bin.browser;
+package crazy.browser;
+/*
+ * 作者：叶浩\西安-疯子\xian-crazy
+ * github：https://github.com/xian-crazy/CrazyWebDriverBin.git
+ */
 import java.io.File;
 import java.io.IOException;
 import java.util.Arrays;
