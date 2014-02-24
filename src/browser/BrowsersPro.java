@@ -1,5 +1,5 @@
 
-package bin;
+package browser;
 import java.io.File;
 import java.io.IOException;
 import java.util.Arrays;

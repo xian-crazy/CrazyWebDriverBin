@@ -1,4 +1,4 @@
-package bin;
+package browser;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;
